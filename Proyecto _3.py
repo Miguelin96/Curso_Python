@@ -1,5 +1,3 @@
-from subprocess import check_output
-
 texto_ingresado = input("Ingresa un texto: ").lower()
 letra_1 = input("Ingresa la primera letra: ").lower()
 letra_2 = input("Ingresa la segunda letra: ").lower()
